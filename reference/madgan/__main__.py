@@ -1,15 +1,3 @@
-import typer
-import madgan
-
-train = madgan.train
-
-_madgan_cli = typer.Typer(name="MAD-GAN CLI")
-_madgan_cli.command(name="train")()
-
-
-@_madgan_cli.callback()
-def main() -> None:
-    """MAD-GAN Command Line Interface."""
-
-if __name__ == "__main__":
-    _madgan_cli()
+version https://git-lfs.github.com/spec/v1
+oid sha256:20d73538b23d9ae0e8e843d2bc3a5228542b16de20d67a54ad9b5c8123dedf9d
+size 266

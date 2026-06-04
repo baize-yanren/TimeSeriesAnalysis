@@ -1,6 +1,3 @@
-This dataset is taken as is from https://physionet.org/content/mitdb/1.0.0/
-
-Corresponding paper:
-Moody GB, Mark RG. The impact of the MIT-BIH Arrhythmia Database. IEEE Eng in Med and Biol 20(3):45-50 (May-June 2001). (PMID: 11446209)
-
-CSV files can be downloaded using the PhysioBank ATM tool: https://archive.physionet.org/cgi-bin/atm/ATM
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f157e9fb2d50e63b198d59eadc24450d3374171c2b03214118c16442fa53ed8
+size 340
